@@ -17,7 +17,7 @@ Top Genre: Drama takes the leading spot with 986 titles, closely followed by Com
 
 Primary Maturity Rating: 13+ is the most frequent rating classification with 2,117 total shows.
 
-Project Overview
+📖 Project Overview
 
 The streaming landscape is fiercely competitive, and understanding catalog architecture is key to recognizing platform strategy. This project was developed to dissect and visualize the foundational content structure of Amazon Prime Video using amazon_prime_titles.csv. By transforming raw metadata into structured, visual intelligence, this dashboard maps out how the platform balances its library across time, global regions, genres, and audience demographics.
 
