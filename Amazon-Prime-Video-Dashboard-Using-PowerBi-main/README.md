@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Amazon Prime Video Dashboard Preview](https://github.com/yashas07-dataminds/binge-boss/tree/main/Amazon-Prime-Video-Dashboard-Using-PowerBi-main)
+![Amazon Prime Video Dashboard Preview](https://github.com/yashas07-dataminds/binge-boss/blob/main/Amazon-Prime-Video-Dashboard-Using-PowerBi-main/Amazon%20Prime%20Video%20Dashboard%20by%20Yashas%20N.jpg)
 
 ## Overview
 
