@@ -17,6 +17,20 @@ Top Genre: Drama takes the leading spot with 986 titles, closely followed by Com
 
 Primary Maturity Rating: 13+ is the most frequent rating classification with 2,117 total shows.
 
+Project Overview
+
+The streaming landscape is fiercely competitive, and understanding catalog architecture is key to recognizing platform strategy. This project was developed to dissect and visualize the foundational content structure of Amazon Prime Video using amazon_prime_titles.csv. By transforming raw metadata into structured, visual intelligence, this dashboard maps out how the platform balances its library across time, global regions, genres, and audience demographics.
+
+Deep-Dive Analysis & Observations
+
+The Movie vs. TV Show Asymmetry:One of the most striking architectural insights from the dashboard is the massive dominance of Movies over TV Shows ($80.82\%$ vs $19.18\%$). While competitor platforms often focus heavily on episodic TV content to drive weekly user retention, Amazon Prime Video's library boasts a staggering 7.81K movies, positioning it as a massive digital archive for feature films.
+
+The Exponential Streaming Boom:The Total Shows by Release Year timeline visualizes a historical curve starting all the way back in 1920. However, the trajectory experiences an exponential, vertical spike post-2010. This perfectly mirrors the "Streaming Wars" era, highlighting massive content acquisition frameworks and aggressive catalog expansion to meet global broadband adoption.
+
+Demographic Targeting via Ratings:The maturity rating distribution reveals that Amazon Prime Video acts as a highly versatile, mainstream platform. The dominant 13+ classification (2,117 titles) indicates a deliberate focus on broad-appeal, four-quadrant family content, while robust numbers in the 16+ and 18+ brackets ensure deep engagement for mature audiences.
+
+Global Footprint & Genre Diversification:Through geospatial mapping, the project highlights how content production centers aggregate heavily across North America and Europe, while simultaneously expanding tracking for emerging international media hubs. Genre-wise, the heavy volume of Drama (986) and Comedy (536) indicates a reliance on high-sentiment, universally relatable genres to anchor their global viewership.
+
 🛠️ Features
 Geographical Content Mapping: Interactive world map showcasing total shows distributed by country of origin.
 
